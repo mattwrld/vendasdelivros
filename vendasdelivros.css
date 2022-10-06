@@ -1,0 +1,50 @@
+h1{
+    color: brown;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: unset;
+    text-indent: 11px;
+}
+
+header img {
+    float: left;
+    margin-top: 5px;
+    max-height: 70px;
+    padding: 5px;
+    
+    
+}
+
+p{
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: italic;
+    text-align: center;
+   
+}
+#menu li{
+    display: block;
+    float: left;
+    background-color: black;
+}
+span{
+    color: blueviolet;
+}
+#menu li{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    color: antiquewhite;
+}
+#menu li:hover{
+background-color: blueviolet;
+cursor: pointer;
+}
+img{
+    height: 200px;
+    padding: 10px;
+}
+span{
+    color: red;
+}
