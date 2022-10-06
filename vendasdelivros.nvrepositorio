@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>mundo dos livros</title>
+        <link rel="stylesheet"  href="vendasdelivros.css">
+    </head>
+    <body>
+        <h1> livros em alta </h1>
+        <table>
+            <tbody>
+               <tr>
+                <td>
+                    <img src="https://www.intrinseca.com.br/upload/livros/CAPA_CidadesDePapel_139x208.jpg" weight="30px"/>
+                <br>
+                <a href="#">comprar</a>
+                <br>
+                "cidade de papel"
+                <br>
+                <span class="price">R$ 99,00</span>
+                </td>
+                <td>
+                    <img src="https://m.media-amazon.com/images/I/61oIS8ewc9L.jpg" weight="50px"/>
+                    <br>
+                    <a href="#">comprar</a>
+                    <br>
+                    "cidade de papel"
+                    <br>
+                    <span class="price">R$ 150,00</span>
+                </td>
+               </tr> 
+                
+                
+            </tbody>
+        </table>
+    </body>
+</html>
